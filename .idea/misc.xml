@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13 (bpod_python_overhaul)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="uv (bpod_python_overhaul)" project-jdk-type="Python SDK" />
+</project>

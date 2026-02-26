@@ -1,0 +1,9 @@
+[submodule "bpod-gui"]
+	path = bpod-gui
+	url = git@github.com:olfactorybehaviorlab/bpod-gui.git
+[submodule "bpod-core"]
+	path = bpod-core
+	url = git@github.com:int-brain-lab/bpod-core
+[submodule "bpod-rig"]
+	path = bpod-rig
+	url = git@github.com:sanworks/bpod-rig.git
